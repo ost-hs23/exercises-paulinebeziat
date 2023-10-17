@@ -1,0 +1,21 @@
+---
+title: "my-first-document"
+author: "pauline béziat"
+format: html
+editor: visual
+toc: true
+toc-depth: 2
+theme: sketchy
+---
+
+## Joy
+
+reading scientific literature
+
+## Challenging
+
+organising and trusting your own data
+
+## I want to learn
+
+Whether quarto will actually be an otpion for me to write my thesis in - will this be more efficient than in word? dont want to fall into the classic latex trap. how can my professor comment on my document?

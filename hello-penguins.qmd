@@ -1,7 +1,10 @@
 ---
-title: "Hello, Penguins!"
+title: "Hello, Penguins, it is getting warm!"
+author: "Open science course"
 format: html
 editor: visual
+editor_options: 
+  chunk_output_type: console
 ---
 
 ## Data
