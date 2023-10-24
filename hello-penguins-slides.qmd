@@ -1,8 +1,20 @@
 ---
 title: "Hello, Penguins!"
-format: html
+author: "mother nature"
+format: 
+  revealjs:
+    logo: images/quarto-logo.png
+    footer: "My Footer"
+    chalkboard: TRUE
 editor: visual
+editor_options: 
+  chunk_output_type: console
 ---
+
+::: notes
+:::
+
+# Introduction
 
 ## Data
 
@@ -27,6 +39,8 @@ The figure below is a scatterplot of species of penguins.
 #| warning: false
 #| fig-width: 5
 #| fig-asp: 0.618
+#| echo: true 
+#| output-location: column-fragment
 
 ggplot(data = penguins,
        mapping = aes(x = bill_length_mm, 
@@ -51,3 +65,13 @@ penguins |>
   select(species, island, bill_length_mm, bill_depth_mm) |>
   gt()
 ```
+
+# Analysis
+
+::: incremental
+-   bullet 1
+
+-   bullet 2
+:::
+
+# References

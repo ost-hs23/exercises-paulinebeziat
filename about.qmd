@@ -1,0 +1,28 @@
+---
+title: "Kilo"
+about:
+  template: jolla
+  image: kilo.png
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/pauline-b%C3%A9ziat-944442ab/
+---
+
+Kilo is my partners cat. I have stolen her because I love her. She now lives with Lin and me. 
+
+## Education
+
+Cat kindergarden | Athens, Greece
+Eating a lot | Sept 2011 - June 2015
+
+Cat College | WHOI, US
+Going outdoors | Sept 2007 - June 2011
+
+## Experience
+
+Sleeping | Midnight zoomies | Taking socks away
+
+Waking roomates up at night | Being cute
+
+

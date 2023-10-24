@@ -1,7 +1,17 @@
 ---
+title: "I wish I was a jellyfish"
+author: "pauline"
 format: html
 editor: source
 ---
+
+## They dont have to write up their PhD thesis
+
+{{< video https://https://www.youtube.com/watch?v=gdJjc6l6iII >}}
+
+## They are beautiful
+
+![jellyfish](https://static.scientificamerican.com/sciam/cache/file/B7E980C5-B182-4A2E-80369F2AC535EB35_source.jpg?w=2000&h=1123&18382C88-60B0-48A0-8368A7A449778311)
 
 1.  Add a title and author to the YAML header. Add a table of contents as well.
 

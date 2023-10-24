@@ -20,6 +20,24 @@ library(palmerpenguins)
 3.  **Stretch goal:** Add a caption, label, and cross-reference to the figure generated from the code below.
 
 ```{r}
+
+```
+
+| restaurant | cuisine |
+|------------|---------|
+|            |         |
+|            |         |
+
+: here i write the caption {#tbl-testtable}
+
+![this is the quarto logo](images/quarto-logo.png){#fig-quarto1}
+
+see @fig-quarto1 for the quarto logo
+
+see @tbl-testtable for the test table
+
+
+```{r}
 #| warning: false
 #| fig-width: 5
 #| fig-asp: 0.618

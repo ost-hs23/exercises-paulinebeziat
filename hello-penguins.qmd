@@ -1,7 +1,9 @@
 ---
 title: "Hello, Penguins, it is getting warm!"
 author: "Open science course"
-format: html
+format: html 
+fontcolor: green
+
 editor: visual
 editor_options: 
   chunk_output_type: console
